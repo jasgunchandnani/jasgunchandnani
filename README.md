@@ -37,11 +37,11 @@
 
 ---
 
-### 📫 How to reach me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasgunchandnani)  
-[![Twitter](https://img.shields.io/badge/-@JasgunChandnani-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/JasgunChandnani)  
-[![Email](https://img.shields.io/badge/-jasgunchandnani20@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jasgunchandnani20@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jasgunchandnani)  
+- [Twitter (X)](https://twitter.com/JasgunChandnani)  
+- [Email](mailto:jasgunchandnani20@gmail.com)
 
 ---
 

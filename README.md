@@ -38,8 +38,10 @@
 ---
 
 ### 📫 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasgunchandnani)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jasgunchandnani20@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@JasgunChandnani-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/JasgunChandnani)  
+[![Email](https://img.shields.io/badge/-jasgunchandnani20@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jasgunchandnani20@gmail.com)
 
 ---
 
